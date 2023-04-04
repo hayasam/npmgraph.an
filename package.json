@@ -41,7 +41,7 @@
     "angular": "1.2.29",
     "js-md5": "^0.1.2",
     "ngraph.events": "0.0.3",
-    "ngraph.graph": "0.0.10",
+    "ngraph.graph": "0.0.18",
     "ngraph.merge": "0.0.1",
     "ngraph.svg": "0.0.15",
     "ngraph.three": "0.0.11",
